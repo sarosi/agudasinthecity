@@ -1,0 +1,195 @@
+background-image: url(image_path ('Background-Wien.png'));
+
+.container {
+    /*  */
+    width: 780px;
+  }
+  
+body {
+    /*  */
+	background: #999990;
+/*	background-image: url(<%= asset_path 'Background-Wien.png' %>);*/
+  }
+
+header {
+    /*  */
+    padding-top: 20px;
+  }
+
+header img {
+    /*  */
+    padding: 1em;
+  }
+
+
+section {
+    /*  */
+    margin-top: 1 em;
+    font-size: 130%;
+    padding: 20px;
+    background: #ffffcc;
+  }
+  
+section h1 {
+    /*  */
+    font-size: 250%;
+  }
+
+a {
+    /*  */
+    color: #0033FF;
+    text-decoration: none;
+  }
+
+a:hover {
+    /*  */
+    color: #069;
+    background-color: #00AACC;
+  }
+
+a:visited {
+    /*  */
+    color: #0033FF;
+  }
+
+nav {
+    /* Navigation */
+    float: none;
+    padding: 0 0.7em;
+    white-space: nowrap;
+  }
+
+nav ul {
+    /*  */
+    margin: 0;
+    padding: 8px 0;
+  }
+  
+nav ul li {
+    /*  */
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 0;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+/*     background: #000;*/
+  }
+   
+a.signup_button {
+    /*  */
+   	margin-left: auto;
+   	margin-right: auto;
+   	display: block;
+   	text-align: center;
+   	width: 190px;
+   	color: #fff;
+   	background: #0099CC;
+   	font-size: 150%;
+   	font-weight: bold;
+   	padding: 20px; 
+  }
+  
+.round {
+    /*  */
+    -moz-border-radius:    25px;
+    -webkit-border-radius: 25px;
+    border-radius:         25px;
+  }
+
+footer {
+    /*  */
+    text-align: center;
+    margin-top: 10px;
+    width: 710px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+footer nav {
+    /*  */
+    float: none ;
+  }
+
+table.profile {
+    /*  */
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+td.main {
+    /*  */
+    width: 60%;
+    padding: 1em;
+    vertical-align: top;
+  }
+
+td.sidebar {
+    /*  */
+    width: 40%;
+    padding: 1em;
+    vertical-align: top;
+    background: #ffa; 
+  }
+  
+.profile img.gravatar {
+    /*  */
+    border: 1px solid#999;
+    margin-bottom: -15px;
+  }
+  
+div.field, div.actions {
+    /*  */
+    margin-bottom: 10px;
+  }
+
+/* error messages */
+
+.field_with_errors {
+    /*  */
+/*    margin-top: 10px;*/
+    padding: 0px;
+/*    background-color: red;*/ 
+    display: table;
+  }
+  
+.field_with_errors label {
+    /*  */
+   background-color: white;
+   color: red;
+   border: none;
+   
+  }
+
+#error_explanation {
+    /*  */
+    width: 440px;
+    border: 2px solid red;
+	padding: 7px;
+    padding-bottom: 6px;
+    padding-top: 12px;
+    background-color: #f0f0f0;
+  }
+
+#error_explanation h2 {
+    /*  */
+    text-align: left;
+    font-weight: bold;
+    padding: 5px 5px 5px 15px;
+    font-size: 14px;
+    margin: -7px;
+    color: #c00;
+   }
+  
+/*#error_explanation p {
+    color: #333;
+    margin-bottom: 0;
+    padding: 5px;
+ }*/
+
+#error_explanation ul li {
+    /*  */
+    font-size: 12px;
+    color: #c00; 
+    list-style: square;
+  }
