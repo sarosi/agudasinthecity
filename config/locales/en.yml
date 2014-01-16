@@ -4,8 +4,8 @@ en:
   #Navigation Menu
   navmenu:
     home:       "Home"
-    where:      "Where are we"
-    when:       "When do we daven"
+    where:      "Where we are"
+    when:       "When we daven"
     contact_us: "Contact us"
     
   #Pages#Home

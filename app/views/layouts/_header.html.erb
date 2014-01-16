@@ -1,10 +1,12 @@
 
 <header>
-	<div id="language_switcher">
-		<%= link_to "English", :locale => 'en' %>
-		<%= link_to "Deutsch", :locale => 'de' %>		
+	<div id="logo">
+		<%= link_to logo, root_path %>
 	</div>
-	<%= link_to logo, root_path %>	
+	<div id="language_switcher">
+		<%= link_to image_tag("fl_English.gif"), :locale => 'en' %>
+		<%= link_to image_tag("fl_Deutsch.gif"), :locale => 'de' %>		
+	</div>	
 	<nav>
 		<ul>
 			<li class='round'><%=link_to t('navmenu.home'),       root_path %></li>

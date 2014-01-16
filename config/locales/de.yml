@@ -5,8 +5,8 @@ de:
   #Navigation Menu
   navmenu:
     home:       "Home"
-    where:      "Wo sind wir"
-    when:       "Wann dawenen wir"
+    where:      "Wo wir sind"
+    when:       "Wann wir dawenen"
     contact_us: "Kontakt"
 
   #Pages/Home
