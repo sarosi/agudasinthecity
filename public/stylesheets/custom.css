@@ -21,7 +21,6 @@ header img {
     padding: 1em;
   }
 
-
 section {
     /*  */
     margin-top: 1 em;
@@ -33,6 +32,13 @@ section {
 section h1 {
     /*  */
     font-size: 250%;
+  }
+  
+  
+#language_switcher {
+    /*  */
+    font-size: 14px;
+    float: right;
   }
 
 a {
