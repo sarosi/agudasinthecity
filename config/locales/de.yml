@@ -1,0 +1,45 @@
+# I18n yaml File für |de| (Deutsch)
+
+de:
+  
+  #Navigation Menu
+  navmenu:
+    home:       "Home"
+    where:      "Wo sind wir"
+    when:       "Wann dawenen wir"
+    contact_us: "Kontakt"
+
+  #Pages/Home
+  home:
+    title:     "Home"
+    main_h1:   "Unsere Schul"
+    paragraph: "Unsere Schul in der Grünangergasse ist die einzige orthodoxe Schul im Zentrum Wiens, 
+                die ganzjährig im Vollbetrieb ist. Sie liegt nur wenige Minuten vom Stephansplatz entfernt 
+                in einer ruhigen Seitengasse und hat einen einzigartigen Charme, der schwer zu beschreiben, 
+                aber umso leichter wahrzunehmen ist, sobald man über die Türschwelle tritt. “Die Grünangergasse” 
+                gehört zur Agudas Israel, öffnet aber allen Interessierten ihre Tore. Es entspricht der 
+                persönlichen und warmen Atmosphäre unserer Schul, dass man leicht mit anderen ins Gespräch kommt 
+                und wer alleine reist, bleibt selten ohne eine Einladung zum Schabbes-Essen."
+    eruv_h2:        "Eruv"
+    eruv_paragraph: "Fast das ganze Stadtgebiet von Wien hat einen Eruv, der von ALLEN orthodoxen Rabbinaten anerkannt wird. 
+                     Selbstverständlich befindet sich das gesamte Stadtzentrum Wiens und auch “Die Grünangergasse” innerhalb 
+                     des Eruvs. Für nähere Informationen "
+    eruv_link:      "klicken Sie bitte hier"
+  
+  #Pages/Where
+  where:
+    main_h1:   "Wie können Sie uns erreichen?"
+    paragraph: "Unsere Schul befindet sich in der Grünangergasse 1 im ersten Bezirk. Sie ist weniger als 3 Minuten 
+                vom Stephansplatz, dem touristischen Mittelpunkt Wiens, enfernt."
+
+  #Pages/When
+  when:
+    main_h1:        "Wann dawenen wir?"
+    h2:             "Dawenzeiten in der Grünangergasse"
+    shabbes_first:  "Schabbes - erste Minjen"
+    shabbes_second: "Schabbes - zweite Minjen"
+    weekdays:       "Unter der Woche"
+    sunday:         "Sonntag"
+    information:    ""
+
+

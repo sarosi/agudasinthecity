@@ -1,23 +1,41 @@
-# Files in the config/locales directory are used for internationalization
-# and are automatically loaded by Rails. If you want to use locales other
-# than English, add the necessary files in this directory.
-#
-# To use the locales, use `I18n.t`:
-#
-#     I18n.t 'hello'
-#
-# In views, this is aliased to just `t`:
-#
-#     <%= t('hello') %>
-#
-# To use a different locale, set it with `I18n.locale`:
-#
-#     I18n.locale = :es
-#
-# This would use the information in config/locales/es.yml.
-#
-# To learn more, please read the Rails Internationalization guide
-# available at http://guides.rubyonrails.org/i18n.html.
+#I18n file for |en| (English)
 
 en:
-  hello: "Hello world"
+  #Navigation Menu
+  navmenu:
+    home:       "Home"
+    where:      "Where are we"
+    when:       "When do we daven"
+    contact_us: "Contact us"
+    
+  #Pages#Home
+  home:
+    title:     "Home"
+    main_h1:   "Our Shul"
+    paragraph: "Our Shul in Grünangergasse is the only Orthodox Shul in the Center of Vienna, which is in 
+                Full-Service through the whole year. It is only a few minutes away from Stephansplatz, in a quiet side-street
+                and has a unique Charme, which is hard to describe, but easy to realize immediatelly when a person enters the Shul.
+                The “Grünangergasse” is part of Agudas Israel, and its doors are open for anyone who is interested. Our Shul has 
+                a personal and warm atmosphere. Here a lonely traveller stays very rarely without an invitation for a Shabbes-meal."
+    eruv_h2:        "Eruv"
+    eruv_paragraph: "Almost the whole city of Vienna is surrounded by an eruv, which is accepted by ALL the Orthodox rabbinates! 
+                     Obviously the whole center on Vienna including “Grünangergasse” is inside the eruv. For more informations about the eruv "
+    eruv_link:      "click here"
+
+  #Pages/Where
+  where:
+    main_h1:   "How can you reach us?"
+    paragraph: "Our Shul is in Grünangergasse 1, in the first district. It is less than 3 minutes away from Stephansplatz, 
+                the touristic center of Vienna."
+
+  #Pages/When
+  when:
+    main_h1:        "When do we dawen?"
+    h2:             "Daweningtimes in Grünangergasse"
+    shabbes_first:  "Shabbes - first minjen"
+    shabbes_second: "Shabbes - second minjen"
+    weekdays:       "Weekdays"
+    sunday:         "Sunday"
+    information:    ""
+    
+
