@@ -1,11 +1,9 @@
 Agudasinthecity::Application.routes.draw do
 
-#  scope "/:locale" do
-    root :to => 'pages#home'
+    root             :to => 'pages#home'
     get '/where',    :to => 'pages#where'
     get '/when',     :to => 'pages#when'
     get '/contact',  :to => 'contact_us/contacts#new'
-#  end
   
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
