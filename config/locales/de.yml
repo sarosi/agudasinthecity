@@ -5,8 +5,8 @@ de:
   #Navigation Menu
   navmenu:
     home:       "Home"
-    where:      "Wo wir sind"
-    when:       "Wann wir dawenen"
+    where:      "Wo sind wir"
+    when:       "Wann dawenen wir"
     contact_us: "Kontakt"
 
   #Pages/Home
@@ -36,8 +36,8 @@ de:
   when:
     main_h1:        "Wann dawenen wir?"
     h2:             "Dawenzeiten in der Grünangergasse"
-    shabbes_first:  "Schabbes - erste Minjen"
-    shabbes_second: "Schabbes - zweite Minjen"
+    shabbes_first:  "Schabbes - erstes Minjen"
+    shabbes_second: "Schabbes - zweites Minjen"
     weekdays:       "Unter der Woche"
     sunday:         "Sonntag"
     information:    ""

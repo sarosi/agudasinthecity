@@ -3,7 +3,12 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
-#PostgreSQL
+#Sqlite3 for development and test 
+group :development, :test do
+  gem 'sqlite3-ruby', :require => 'sqlite3'
+end
+
+#PostgreSQL for production
 gem "pg"
 
 # FormTastic
