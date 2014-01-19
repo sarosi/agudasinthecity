@@ -1,0 +1,41 @@
+#I18n file for |he| (Hebrew)
+
+en:
+  #Navigation Menu
+  navmenu:
+    home:       "Home"
+    where:      "Where we are"
+    when:       "When we daven"
+    contact_us: "Contact us"
+    
+  #Pages#Home
+  home:
+    title:     "Home"
+    main_h1:   "Our Shul"
+    paragraph: "Our Shul in Grünangergasse is the only Orthodox Shul in the Center of Vienna, which is in 
+                Full-Service through the whole year. It is only a few minutes away from Stephansplatz, in a quiet side-street
+                and has a unique Charme, which is hard to describe, but easy to realize immediatelly when a person enters the Shul.
+                The “Grünangergasse” is part of Agudas Israel, and its doors are open for anyone who is interested. Our Shul has 
+                a personal and warm atmosphere. Here a lonely traveller stays very rarely without an invitation for a Shabbes-meal."
+    eruv_h2:        "Eruv"
+    eruv_paragraph: "Almost the whole city of Vienna is surrounded by an eruv, which is accepted by ALL the Orthodox rabbinates! 
+                     Obviously the whole center on Vienna including “Grünangergasse” is inside the eruv. For more informations about the eruv "
+    eruv_link:      "click here"
+
+  #Pages/Where
+  where:
+    main_h1:   "How can you reach us?"
+    paragraph: "Our Shul is in Grünangergasse 1, in the first district. It is less than 3 minutes away from Stephansplatz, 
+                the touristic center of Vienna."
+
+  #Pages/When
+  when:
+    main_h1:        "When do we dawen?"
+    h2:             "Daweningtimes in Grünangergasse"
+    shabbes_first:  "Shabbes - first minjen"
+    shabbes_second: "Shabbes - second minjen"
+    weekdays:       "Weekdays"
+    sunday:         "Sunday"
+    information:    ""
+    
+
