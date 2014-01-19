@@ -1,5 +1,4 @@
-background-image: "Background-Wien.png";
-
+background-image: url("Background-Wien.png");
 .container {
     /*  */
     width: 780px;
@@ -7,7 +6,7 @@ background-image: "Background-Wien.png";
   
 body {
     /*  */
-	background: #999990;
+	background-color: #999990;
 /*	background-image: url(<%= asset_path 'Background-Wien.png' %>);*/
   }
 
