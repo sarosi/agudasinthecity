@@ -1,6 +1,6 @@
 Agudasinthecity::Application.routes.draw do
 
-    root             :to => 'pages#home', via: :get
+    root             :to => 'pages#home'
     get '/where',    :to => 'pages#where'
     get '/when',     :to => 'pages#when'
     get '/contact',  :to => 'contact_us/contacts#new'
