@@ -17,7 +17,7 @@ gem "formtastic", "~> 2.2.1"
 # Simple form
 gem 'simple_form'
 
-gem 'contact_us', '~> 0.4.0'
+#gem 'contact_us', '~> 0.4.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
@@ -45,7 +45,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'globalize3'
+#gem 'globalize3'
 
 gem 'heroku'
 

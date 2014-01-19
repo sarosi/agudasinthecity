@@ -36,16 +36,11 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.6.3)
-    contact_us (0.4.0)
-      rails (>= 3.0.0)
     erubis (2.7.0)
     excon (0.31.0)
     execjs (2.0.2)
     formtastic (2.2.1)
       actionpack (>= 3.0)
-    globalize3 (0.1.0)
-      activemodel (>= 3.0.0)
-      activerecord (>= 3.0.0)
     heroku (3.2.2)
       heroku-api (~> 0.3.7)
       launchy (>= 0.3.2)
@@ -139,9 +134,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
-  contact_us (~> 0.4.0)
   formtastic (~> 2.2.1)
-  globalize3
   heroku
   jbuilder (~> 1.2)
   jquery-rails
